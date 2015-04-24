@@ -7,10 +7,10 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 User.create(username: "tooth", email: "toothy@tooth.com", password: "shitface", password_confirmation: "shitface")
-User.create(username: "chop", email: "habs@gmail.com", password: "shitface", password_confirmation: "shitface")
-User.create(username: "pulsats", email: "habs1@gmail.com", password: "shitface", password_confirmation: "shitface")
-User.create(username: "mr.migs", email: "habs2@gmail.com", password: "shitface", password_confirmation: "shitface")
-User.create(username: "fredo", email: "habs3@gmail.com", password: "shitface", password_confirmation: "shitface")
-User.create(username: "chicks", email: "habs4@gmail.com", password: "shitface", password_confirmation: "shitface")
+User.create(username: "chop", email: "kius@tooth.com", password: "shitface", password_confirmation: "shitface")
+User.create(username: "pulsats", email: "jfkhvisudh@tooth.com", password: "shitface", password_confirmation: "shitface")
+User.create(username: "mr.migs", email: "jbsd@tooth.com", password: "shitface", password_confirmation: "shitface")
+User.create(username: "fredo", email: "try@tooth.com", password: "shitface", password_confirmation: "shitface")
+User.create(username: "chicks", email: "gvsd@tooth.com", password: "shitface", password_confirmation: "shitface")
 
-p "Test users created"
+
