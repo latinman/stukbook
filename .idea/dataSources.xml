@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1130105102">
+  <component name="DataSourceManagerImpl" format="xml" hash="3918195849">
     <data-source source="LOCAL" name="Rails stukbook: development" uuid="be65677e-7d97-4e85-a37c-e25b3142eb16">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
@@ -11,6 +11,12 @@
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails stukbook: production" uuid="61ac3da9-ebe0-474a-b5cc-f561ba1762fe">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stukbook</jdbc-url>
       <libraries />
     </data-source>
   </component>
